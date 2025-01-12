@@ -5,4 +5,4 @@
 ### Sankey Diagram
 - https://yoocygit.github.io/HTML-Interactive/sankey-diagram
 ### USMCA Subsidiary Type
-- https://yoocygit.github.io/HTML-Interactive/USMCA-subsidiary-type
+- https://yoocygit.github.io/HTML-Interactive/USMCA-Subsidiary-Type
